@@ -1,2 +1,5 @@
-#Python is a programming language that is widely used for web development, data analysis, artificial intelligence, scientific computing, and more. It is known for its simplicity and readability, making it a great choice for beginners and experienced programmers alike. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It has a large standard library and a vibrant community that contributes to a vast ecosystem of third-party packages and frameworks.
-#Python uses whitespace and indentation to structure loops, functions, and conditions. If your spacing is off, Python will throw an indentation error.
+#Jace Conrad
+# Python is a programming language
+# I want to learn python because its a versatile program
+# I want to learn how to debug
+# I want to learn how to use python for data 
