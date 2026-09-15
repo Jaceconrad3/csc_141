@@ -8,5 +8,14 @@ print(places)
 
 print(sorted(places, reverse=True))
 
+print(places)
+places.reverse()
+
+places.sort()
+print(places)
+
+places.sort(reverse=true)
+print(places)
+
 
 
