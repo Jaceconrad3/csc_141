@@ -1,3 +1,3 @@
-guest=["Kobe Bryant", "JAlen Hurts", "Michael Jordan"]
+guests=["Kobe Bryant", "Jalen Hurts", "Michael Jordan"]
 
-print(f"I am inviting {len(guest)} people to dinner tonight.")
+print(f"I am inviting {len(guests)} people to dinner tonight.")

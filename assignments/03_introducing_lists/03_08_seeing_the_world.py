@@ -1,6 +1,6 @@
 places= ["Italy", " Brazil", "France", "Greece", "Spain"]
 
-print=(places)
+print(places)
 
 print(sorted(places))
 
@@ -14,7 +14,7 @@ places.reverse()
 places.sort()
 print(places)
 
-places.sort(reverse=true)
+places.sort(reverse=True)
 print(places)
 
 

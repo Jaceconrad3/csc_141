@@ -4,7 +4,7 @@ print("Original list:", countries)
 print(f"number of countries: {len(countries)}")
 
 countries[0]= 'Brazil(USA)'
-print( "Modified list:", countries)
+print("Modified list:", countries)
 
 countries.append("Canada")
 print("After insert():", countries)
