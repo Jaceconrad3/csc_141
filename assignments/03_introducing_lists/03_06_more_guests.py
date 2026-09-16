@@ -1,9 +1,16 @@
-guest=["Kobe Bryant", "Jalen Hurts", "Michael Jordan"]
+guests = ["Kobe Bryant", "Jalen Hurts", "Michael Jordan"]
 
-print(f"Dear {guest},I actually just found a bigger dinner table so we have room for more guests!")
+print("I actually just found a bigger dinner table so we have room for more guests!")
 
-guest.insert (0, "Allen Iverson")
-guest.insert ( 2, "Tyrese Maxey")
-guest.append ("VJ Edgecombe")
+guests.insert(0, "Allen Iverson")
+guests.insert(2, "Tyrese Maxey")
+guests.append("VJ Edgecombe")
 
-print(f"Dear {guest}, Thank you for your patience and very excited to have a bigger dinner with you all!")
+for guest in guests:
+    print(f"Dear {guest}, you are invited to my birthday party dinner on saturday at 7pm")
+
+print("Thank you for your patience and very excited to have a bigger dinner with you all!")
+
+# Jace
+#Conrad
+#This list uses insert and append and then prints out  

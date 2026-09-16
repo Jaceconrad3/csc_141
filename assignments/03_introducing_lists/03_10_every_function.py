@@ -7,7 +7,7 @@ countries[0]= 'Brazil(USA)'
 print("Modified list:", countries)
 
 countries.append("Canada")
-print("After insert():", countries)
+print("After append():", countries)
 
 countries.insert(0, 'Mexico')
 print("After insert():", countries)
@@ -34,7 +34,6 @@ print("Permanently sorted (alphabetical):", countries)
 countries.sort(reverse=True)
 print("Permanently sorted (reverse alphabetical):", countries)
 
-
-
-
-
+#Jace
+#Conrad
+#This code uses every method that was used in the previous assignments.
