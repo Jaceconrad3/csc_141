@@ -1,2 +1,3 @@
 names=["Marqus", "Iven", "Sam",]
-print(f"Hello,){names}!Get on 2k27 when you get home tonight")
+for name in names:
+    print(f"Hello {name}, get on 2k and play with me!")
