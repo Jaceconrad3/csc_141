@@ -1,3 +1,7 @@
+# Jace
+# Conrad
+# Chapter 2
+
 name= "Jace Conrad"
 print(name)
 print(name.title())
@@ -9,6 +13,3 @@ print (8-0)
 print (2*4)
 print (16/2)   
 #this code prints the solutions to different operations that sum is 8
-#Jace
-#Conrad
-#Chapter 2

@@ -1,3 +1,6 @@
+# Jace
+# Conrad    
+# Chapter 3
 guests = ["Kobe Bryant", "Jalen Hurts", "Michael Jordan"]
 
 print("I actually just found a bigger dinner table so we have room for more guests!")
@@ -11,6 +14,5 @@ for guest in guests:
 
 print("Thank you for your patience and very excited to have a bigger dinner with you all!")
 
-# Jace
-#Conrad
+
 #This list uses insert and append and then prints out  

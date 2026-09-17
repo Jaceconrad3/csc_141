@@ -1,7 +1,7 @@
+# Jace
+# Conrad
+# Chapter 2
 print (4+4)
 print (8-0)
 print (2*4)
 print (16/2) 
-#Jace
-#Conrad
-#Chapter 2   

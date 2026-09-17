@@ -1,3 +1,6 @@
+# Jace
+# Conrad    
+# Chapter 3
 countries= ["USA", "Canada", "France", "Germany"]
 print("Original list:", countries)
 
@@ -34,6 +37,5 @@ print("Permanently sorted (alphabetical):", countries)
 countries.sort(reverse=True)
 print("Permanently sorted (reverse alphabetical):", countries)
 
-#Jace
-#Conrad
+
 #This code uses every method that was used in the previous assignments.

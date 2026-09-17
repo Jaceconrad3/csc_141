@@ -1,3 +1,6 @@
+#Jace
+#Conrad
+#Chapter 1
 """
 These are my skills
 
@@ -9,6 +12,3 @@ If I had infinite coding skills I would want to make video games in 2k or the ca
 
  """
 
-#Jace
-#Conrad
-#Chapter 1

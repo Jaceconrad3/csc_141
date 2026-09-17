@@ -1,3 +1,6 @@
+# Jace
+# Conrad    
+# Chapter 3
 guests=["Kobe Bryant", "Jalen Hurts", "Michael Jordan"]
 
 print(f"Dear {guests[0]}, you are invited to my birthday party dinner on saturday at 7pm")
@@ -12,6 +15,5 @@ print(f"\nDear {guests[0]}, you are invited to my birthday party dinner on satur
 print(f"Dear {guests[1]}, you are invited to my birthday party dinner on saturday at 7pm")
 print(f"Dear {guests[2]}, you are invited to my birthday party dinner on saturday at 7pm")
 
-#Jace
-#Conrad
+
 #This is a list of guests to invite them to a birthday party dinner at 7. It also shows how to change a guest in the list and print out the new guest list.

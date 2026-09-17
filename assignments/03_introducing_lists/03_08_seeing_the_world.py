@@ -1,3 +1,7 @@
+# Jace
+# Conrad    
+# Chapter 3
+
 places = ["Italy", "Brazil", "France", "Greece", "Spain"]
 
 print(places)
@@ -23,6 +27,4 @@ places.sort(reverse=True)
 print(places)
 
 
-#Jace
-#Conrad
 #This code is a list of places and prints out the list in different orders.
