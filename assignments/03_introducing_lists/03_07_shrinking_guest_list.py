@@ -2,7 +2,7 @@ guest= ["Kobe Bryant", "Jalen Hurts", "Michael Jordan", "Allen Iverson", "Tyrese
 print("I am sorry to inform you that my dinner table will not arrive in time, so I can only invite two people for dinner.")
 
 popped_guest= guest.pop()
-print (f" Dear {popped_guest}, I am sorry to inform you but you have been removed from dinner.")
+print(f" Dear {popped_guest}, I am sorry to inform you but you have been removed from dinner.")
 
 popped_guest= guest. pop()
 print( f" Dear {popped_guest}, I am sorry to inform you but you have been removed from dinner.")
