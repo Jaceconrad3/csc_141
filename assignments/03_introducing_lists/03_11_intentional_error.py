@@ -8,7 +8,7 @@ guests = ["Kobe Bryant", "Jalen Hurts", "Michael Jordan"]
 print(guests[3])
 
 
-# this will print Micheal Jordan
+# this will print Michael Jordan
 print(guests[2])
 
 

@@ -7,5 +7,6 @@
 # Many Python programmers recommend that each line should be less than 80 characters.
 # PEP 8 also recommends that you limit all of your comments to 72 characters per line.
 # To group parts of your program visually, use blank lines.
+# I don't love the pep 8 rules I feel you font have to follow a system but keep it clean.
 
 print("PEP 8 helps keep code clean and readable!")
