@@ -1,6 +1,9 @@
 # Jace
 # Conrad
 # Chapter 2
-famous_person="Michael Jordan"
-message="I've failed over and over and over again in my life and that is why I succeed."
-print(f"{famous_person} once said, '{message}'")
+# This one prints out a message that michael jordan once said and
+# I inserted his quote
+famous_person = "Michael Jordan"
+quote = "I've failed over and over and over again in my life and that is why I succeed."
+message = f'{famous_person} once said, "{quote}"'
+print(message)
