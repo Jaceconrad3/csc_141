@@ -4,7 +4,7 @@
 my_foods = ['steak', 'lobster', 'pizza']
 friend_foods = my_foods[:]
 
-# This Adds a new food to each list
+# This adds a new food to each list
 my_foods.append('cannoli')
 friend_foods.append('ice cream')
 
