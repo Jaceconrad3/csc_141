@@ -2,7 +2,7 @@
 # Conrad
 # Chapter 5 
 # This assigns different color aliens to different point values.
-
+# Green gets 5, Yellow gets 10, anyone else get 15 points. 
 alien_color = 'green'
 
 if alien_color == 'green':
@@ -21,7 +21,7 @@ elif alien_color == 'yellow':
 else:
     print("You earned 15 points.")
 
-    alien_color = 'red'
+alien_color = 'red'
 
 if alien_color == 'green':
     print("You earned 5 points.")

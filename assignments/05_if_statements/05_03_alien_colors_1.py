@@ -1,7 +1,8 @@
 # Jace
 # Conrad
 # Chapter 5
-# If the alien color is green it will print out my special messege
+# If the alien color is green it will print out my special message " you just earned 5 points."
+# If the alien is red it won't print out
 
 alien_color = 'green'
 

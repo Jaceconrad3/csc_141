@@ -1,7 +1,7 @@
 # Jace
 # Conrad
 # Chapter 5 
-# I set the age to 25 and using if and elif 
+# I set the age to 25 and using if and elif it can determine im an adult
 
 age = 25  
 if age < 2:
